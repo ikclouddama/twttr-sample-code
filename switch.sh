@@ -13,6 +13,7 @@ case $os in
 	*)
 		echo "Please enter right os";;
 	esac
+	# thanks
 
 
 
